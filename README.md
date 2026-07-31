@@ -1,7 +1,8 @@
 # Hi, I'm Abhi 👋
 
-**Data Scientist | SDE Aspirant | Final-Year EEE @ NITK Surathkal**
-https://readme-typing-svg.demolab.com/demo/?lines=Software+Developer;Data+Scientist+
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00FF00&background=00000000&center=true&vCenter=true&width=600&lines=whoami;Abhi;cat+education.txt;Final-Year+EEE+%40+NITK+Surathkal;cat+experience.txt;Intern+%40+ISRO;cat+goals.txt;Targeting+Data+Scientist+%2F+SDE+roles)
+
+---
 
 ```bash
 abhi@nitk ~ % whoami
@@ -21,7 +22,6 @@ abhi@nitk ~ % cat goals.txt
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](your-link)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=vercel)](your-link)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:you@email.com)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&logo=leetcode)](your-link)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/katariabhiram/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abhiramkatariofficial@gmail.com)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&logo=leetcode)](https://leetcode.com/u/abhiramkatari/)
