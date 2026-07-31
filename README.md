@@ -1,6 +1,7 @@
 # Hi, I'm Abhi 👋
 
 **Data Scientist | SDE Aspirant | Final-Year EEE @ NITK Surathkal**
+https://readme-typing-svg.demolab.com/demo/?lines=Software+Developer;Data+Scientist+
 
 ```bash
 abhi@nitk ~ % whoami
