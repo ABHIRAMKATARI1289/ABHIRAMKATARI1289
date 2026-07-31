@@ -1,6 +1,6 @@
 # Hi, I'm Abhi 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00FF00&background=00000000&center=true&vCenter=true&width=600&lines=whoami;Abhi;cat+education.txt;Final-Year+EEE+%40+NITK+Surathkal;cat+experience.txt;Intern+%40+ISRO;cat+goals.txt;Targeting+Data+Scientist+%2F+SDE+roles)
+![Typing SVG]([![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Data+Scientist;Software+Developer)](https://git.io/typing-svg))
 
 ---
 
